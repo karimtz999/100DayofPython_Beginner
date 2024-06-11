@@ -1,4 +1,3 @@
-# 100DayofPython
 # 100 Days of Python Code Challenge
 
 Welcome to the 100 Days of Python Code Challenge! This repository contains code solutions, projects, and learning materials for each day of the challenge. The goal is to code every day for 100 days and document progress along the way.
